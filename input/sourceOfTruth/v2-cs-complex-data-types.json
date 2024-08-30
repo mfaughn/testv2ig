@@ -1,0 +1,13 @@
+{
+  "resourceType": "CodeSystem",
+  "url": "http://hl7.org/v2/CodeSystem/ComplexDataTypes",
+  "id": "v2-cs-complex-data-types",
+  "status": "active",
+  "content": "complete",
+  "concept": [
+    {
+      "code": "AD",
+      "display": "address"
+    }
+  ]
+}

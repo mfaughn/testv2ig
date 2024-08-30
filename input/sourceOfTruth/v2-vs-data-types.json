@@ -1,0 +1,16 @@
+{
+  "resourceType" : "ValueSet",
+  "url" : "http://hl7.org/v2/ValueSet/DataTypes",
+  "id": "v2-vs-data-types",
+  "status" : "active",
+  "compose" : {
+    "include" : [
+      {
+        "system" : "http://hl7.org/v2/CodeSystem/ComplexDataTypes"
+      },
+      {
+        "system" : "http://hl7.org/v2/CodeSystem/PrimitiveDataTypes"
+      }
+    ]
+  }
+}

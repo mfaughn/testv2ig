@@ -1,0 +1,13 @@
+{
+  "resourceType" : "CodeSystem",
+  "url" : "http://hl7.org/v2/CodeSystem/PrimitiveDataTypes",
+  "id": "v2-cs-primitive-data-types",
+  "status" : "active",
+  "content" : "complete",
+  "concept" : [
+    {
+      "code" : "DT",
+      "display" : "Date"
+    }
+  ]
+}
